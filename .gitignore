@@ -16,3 +16,5 @@ venv/
 
 # VS Code settings
 .vscode/
+.pytest_cache/
+.streamlit/secrets.toml
