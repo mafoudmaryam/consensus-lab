@@ -1,0 +1,6 @@
+network_delay_seconds,trials,forks,fork_rate_percent,theoretical_rate_percent
+0.1,1000,11,1.1,1.0
+0.5,1000,44,4.4,4.88
+1.0,1000,95,9.5,9.52
+3.0,1000,253,25.3,25.92
+5.0,1000,409,40.9,39.35

@@ -1,0 +1,2 @@
+experiment,fork_detected,fork_time_seconds,resolution_time_seconds,fork_lifetime_seconds,final_agreement
+network_fork_v2,True,3,10,7,True
