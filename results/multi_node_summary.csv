@@ -1,0 +1,6 @@
+delay_seconds,mean_competing_percent,mean_stale_percent,mean_fork_events,agreement_percent
+0.1,1.723,0.861,0.87,100
+0.5,7.167,3.619,3.62,100
+1.0,13.643,6.917,6.83,100
+3.0,34.911,18.329,16.69,100
+5.0,48.723,26.514,22.86,100
